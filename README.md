@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prashant%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automation&descAlignY=55&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Architect;🐳+Docker+%7C+Jenkins+%7C+CI%2FCD;🐧+Linux+System+Administrator;⚙️+Automating+Everything!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Architect;🐳+Docker+%7C+Jenkins+%7C+CI%2FCD;🐧+Linux+System+Administrator;⚙️+Automating+Everything!)](https://git.io/typing-svg)
 
 <br/>
 
