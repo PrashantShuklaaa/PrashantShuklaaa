@@ -99,13 +99,7 @@ Status   : Building multiple DevOps projects 🔥
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrashantShuklaaa&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
